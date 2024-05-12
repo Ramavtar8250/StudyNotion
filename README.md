@@ -1,6 +1,6 @@
 # StudyNotion
 ## Live 
-https://study-notion-frontend-wheat.vercel.app/ \
+https://study-notion-five-nu.vercel.app/ \
 otp mail will be in your spam section
 ## Installation
 
