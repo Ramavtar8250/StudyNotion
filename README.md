@@ -4,7 +4,7 @@ https://study-notion-five-nu.vercel.app/ \
 otp mail will be in your spam section
 ## Installation
 
-1. Clone the repository: `https://github.com/Horror26/StudyNotion.git`
+1. Clone the repository: `https://github.com/Ramavtar8250/StudyNotion`
 2. Navigate to the project directory: `cd `
 3. Install dependencies: `npm install`
 
